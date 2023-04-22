@@ -7,7 +7,7 @@ local Window = Rayfield:CreateWindow({
     LoadingSubtitle = "Presented by John Pork",
     ConfigurationSaving = {
        Enabled = true,
-       FolderName = "Cotton Picker", -- Create a custom folder for your hub/game
+       FolderName = "porkhub", -- Create a custom folder for your hub/game
        FileName = "Pork Hub"
     }
 })
